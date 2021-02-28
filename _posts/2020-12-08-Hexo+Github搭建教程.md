@@ -1,5 +1,5 @@
 ---
-title: 2020-12-08-Hexo+Github搭建教程
+title: Hexo+Github搭建教程
 date: 2020-12-08 16:02:43
 categories:
 - 2020-12
