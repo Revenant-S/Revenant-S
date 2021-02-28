@@ -734,3 +734,5 @@ alipay: /assets/images/alipay-reward-image.jpg
 
 # Theme version
 version: 5.1.1
+
+since: 2020
