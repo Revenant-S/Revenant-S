@@ -11,7 +11,7 @@ tags:
 
 
 
-Hexo+Github搭建教程
+<center>Hexo+Github搭建教程</center>
 
 <!-- more -->
 
