@@ -10,10 +10,14 @@ tags:
 ---
 
 
-# 前言
-Github Pages 是GitHub提供的免费静态网页托管服务，可以用来托管博客、项目网站等静态网页。支持Jekyll、Hugo、Hexo编译静态资源，本文的主题是GitHub+Hexo。
+
+Hexo+Github搭建教程
 
 <!-- more -->
+
+# 前言
+
+Github Pages 是GitHub提供的免费静态网页托管服务，可以用来托管博客、项目网站等静态网页。支持Jekyll、Hugo、Hexo编译静态资源，本文的主题是GitHub+Hexo。
 
 # 准备环境
 1. NodeJs，Hexo是基于NodeJs驱动的一款博客框架
