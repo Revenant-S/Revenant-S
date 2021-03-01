@@ -21,3 +21,4 @@ tags:
  spd set maxrx=最大上传速度
  spd set tx_bounce_cnt=5
  ```
+ 运行完上述命令后可以再次输入spd speed可以看到calibrated一项已经为100或者十分接近100.
