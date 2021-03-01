@@ -6,7 +6,9 @@ categories:
 tags:
 - cfosspeed
 ---
+<center>cfosspeed基本设置 </center>
 
+<!-- more -->
 
 ## 方法一：自动校准
 右击任务栏图标——流量调整——线路校准，等过几天会自动调整到满状态。
