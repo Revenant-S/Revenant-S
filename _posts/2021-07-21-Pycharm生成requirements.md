@@ -1,5 +1,5 @@
 ---
-title: Pycharm生产requirements.txt 
+title: Pycharm生成requirements.txt 
 date: 2021-07-21 20:24:26
 categories:
 - 2021-07
@@ -7,7 +7,7 @@ tags:
 - Pycharm
 ---
 
-<center>Pycharm生产requirements.txt</center>
+<center>Pycharm生成requirements.txt</center>
 
 <!-- more -->
 
